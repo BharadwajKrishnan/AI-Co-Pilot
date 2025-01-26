@@ -19,7 +19,7 @@ def extract_text_from_pdf(file):
 
 def main():
     # Path to the logo
-    matrickz_logo = r"C:\Users\BharadwajKrishnan\PycharmProjects\MatGPT\logo-full.png"
+    matrickz_logo = r"logo-full.png"
 
     # Custom CSS to fix the input box at the bottom
     st.markdown(
